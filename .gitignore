@@ -14,3 +14,4 @@ scratch_pad.txt
 packages/*/smartthings-cli-*.tgz
 coverage
 smartthings-*.zip
+.idea/
